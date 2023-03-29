@@ -6,7 +6,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 //*************** SINHRONIZACIJA NA THREADS ****************
 
-////metod 1: synchronization (monitor)
+//metod 1: synchronization (monitor)
 //class SyncLibrary {
 //    List<String> knigi = new ArrayList<>();
 //    int kapacitet;
